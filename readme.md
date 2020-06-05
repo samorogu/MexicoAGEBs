@@ -16,4 +16,4 @@ Correr el script en consola `sh 00_get_Mexico_ageb.sh` obtendrá los datos en fo
 
 - Dada una dirección: colonia, calle y número, usar geopy para obtener su lat y long
 - Pasar una muestra csv de lat y long para pegarle su ageb
-- Pegarle datos de resago social del inegi u otros datos de interes
+- Pegarle datos de rezago social del inegi u otros datos de interes

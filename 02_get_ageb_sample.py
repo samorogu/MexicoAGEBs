@@ -24,8 +24,8 @@ def get_ageb(colection, latitude,longitude):
     except:
         return ""
 
-LAT = 19.4910202
-LON = -99.1242766
+LAT = 19.6914202
+LON = -99.2242766
 
 ageb = get_ageb(col_ageb, LAT,LON)
 
