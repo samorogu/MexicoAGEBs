@@ -8,7 +8,7 @@ Correr el script en consola `sh 00_get_Mexico_ageb.sh` obtendrá los datos en fo
 
 `01_save_ageb_mongo.py` Guarda los archivos geojson en mongodb. Se debe cambiar la ruta de mongo ya sea local o que viva en linea.
 
-## Obtiene ageb de una coordenada
+## Obtiene AGEB de una coordenada
 
 `02_get_ageb_sample.py` dadas la geolocalización de un dato, después de buscar el ageb dentro de mongodb, devuelve el indicador de estado, municipio y AGEB en consola
 
